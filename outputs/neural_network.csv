@@ -1,4 +1,4 @@
-passenger_id,survived
+PassengerId,Survived
 295,1
 1150,0
 89,0
